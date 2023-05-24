@@ -1,0 +1,48 @@
+body {
+    background-image: url("assets/FairyGarden.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: middle;
+    font-family:garamond;
+    text-align:center;
+}
+h1, h2, h3{
+    width: 200px;
+    border: double;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    background-color: rgba(0, 0, 0, .35);
+    color: blanchedalmond;
+}
+p{
+    width: 1000px;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    background-color: rgba(0, 0, 0, .35);
+    border: double;
+    color: blanchedalmond;
+}
+a:link {
+    border: double;
+    color:lightsteelblue;
+    background-color:black;
+    text-decoration:none;
+
+}
+a:hover {
+    border: double;
+    color:black;
+    background-color:lightsteelblue;
+    text-decoration:none;
+}
+a:active {
+    border: double;
+    color:maroon;
+    background-color:black;
+    text-decoration:none;
+}
